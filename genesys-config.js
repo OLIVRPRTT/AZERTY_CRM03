@@ -9,7 +9,7 @@
 window.AZERTY_GENESYS_CONFIG = {
   // Apps domain for the Genesys Cloud region that hosts your organization.
   // Examples: apps.mypurecloud.com, apps.mypurecloud.ie, apps.mypurecloud.de
-  deploymentDomain: 'apps.mypurecloud.com',
+  deploymentDomain: 'apps.mypurecloud.de',
 
   // Unique identifier chosen for this CRM component. A UUID or stable slug works.
   componentId: '',
