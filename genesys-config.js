@@ -12,10 +12,10 @@ window.AZERTY_GENESYS_CONFIG = {
   deploymentDomain: 'apps.mypurecloud.de',
 
   // Unique identifier chosen for this CRM component. A UUID or stable slug works.
-  componentId: '',
+  componentId: 'AZERTY_000001',
 
   // Component name approved/whitelisted during Composable Desktop onboarding.
-  componentName: '',
+  componentName: 'GENESYS_CLOUD_COMPOSABLE_DESKTOP',
 
   locale: 'en',
 
