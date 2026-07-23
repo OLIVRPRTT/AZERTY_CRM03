@@ -361,7 +361,8 @@
     dom.broker.style.display = state.config.showBrokerUi ? 'block' : 'none';
     dom.broker.height = state.config.showBrokerUi ? '62' : '0';
     dom.broker.src = brokerUrl();
-    dom.copilot.src = componentUrl('copilot', 'default');
+    // OPA dom.copilot.src = componentUrl('copilot', 'default');
+    dom.copilot.src = componentUrl('queue-activation', 'default');
     dom.scripter.src = componentUrl('scripter', 'embedded', state.config.scopes.scripter);
     dom.acw.src = componentUrl('acw', 'embedded', state.config.scopes.acw);
 
