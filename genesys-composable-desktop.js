@@ -7,7 +7,7 @@
 
   const fileConfig = window.AZERTY_GENESYS_CONFIG || {};
   const defaultConfig = {
-    deploymentDomain: 'apps.mypurecloud.com',
+    deploymentDomain: 'apps.mypurecloud.de',
     componentId: '',
     componentName: '',
     locale: 'en',
