@@ -1,5 +1,6 @@
 # AZERTY CRM with Genesys Cloud Composable Desktop
 
+AZERTY CRM with active Genesys Cloud Composable Desktop
 AZERTY CRM is a responsive demonstration CRM built with plain HTML, CSS and JavaScript. It now contains a **real Genesys Cloud Composable Desktop host integration** for:
 
 - Agent Copilot (`copilot`, default scope)
